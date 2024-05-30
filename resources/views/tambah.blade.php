@@ -42,7 +42,7 @@
                 <input type="file" accept="image/*" name="gambar" class="form-control-file*">
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-secondary">SIMPAN</button>
+                <button type="submit" class="btn btn-secondary">Simpan</button>
             </div>
         </form>
     </div>
